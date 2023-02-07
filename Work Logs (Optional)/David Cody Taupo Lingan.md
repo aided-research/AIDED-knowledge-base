@@ -1,3 +1,11 @@
+## 2/6/23
+### Summary:
+* 
+
+
+
+
+
 ## 2/5/23
 
 ### Summary:
@@ -10,4 +18,7 @@
 
 ### Links:
 https://ardupilot.org/dev/docs/setting-up-sitl-on-linux.html#
-https://wiki.flightgear.org/New_to_FlightGear#:~:text=If%20you%20would%20like%20to,cd%20%2FApplications%2FFlightGear.
+
+https://wiki.flightgear.org/New_to_FlightGear#:~:text=If%20you%20would%20like%20to,cd%20%2FApplications%2FFlightGear ?
+
+https://discuss.ardupilot.org/t/sim-vehicle-py-command-not-found/37184/2

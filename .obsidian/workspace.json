@@ -11,12 +11,8 @@
             "id": "5eccdf93892a70c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work Logs (Optional)/README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -159,14 +155,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "612978ea7ad33352",
+  "active": "c445005ad5d83c36",
   "lastOpenFiles": [
+    "Work Logs (Optional)/David Cody Taupo Lingan.md",
     "General/What is AIDED.md",
     "General/What to expect from this type of engineering research as comapred to classwork or other jobs.md",
     "BEACON/Beacon.md",
     "ATLAS/Untitled.md",
     "ArduPilot/Introduction to ArduPilot and MAVLink.md",
-    "Work Logs (Optional)/David Cody Taupo Lingan.md",
     "Work Logs (Optional)/README.md"
   ]
 }
