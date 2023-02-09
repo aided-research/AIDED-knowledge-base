@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meeting Notes/2023-02-01.md",
+                "file": "Work Logs (Optional)/David Cody Taupo Lingan.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8c744a56db106b39",
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting Notes/2023-02-01.md",
+                "file": "Work Logs (Optional)/David Cody Taupo Lingan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meeting Notes/2023-02-01.md",
+                "file": "Work Logs (Optional)/David Cody Taupo Lingan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meeting Notes/2023-02-01.md"
+                "file": "Work Logs (Optional)/David Cody Taupo Lingan.md"
               }
             }
           }
@@ -150,6 +148,7 @@
   },
   "active": "612978ea7ad33352",
   "lastOpenFiles": [
+    "Meeting Notes/2023-02-01.md",
     "ATLAS/Untitled.md",
     "ATLAS/Design Doc.md",
     "ArduPilot/Introduction to ArduPilot and MAVLink.md",
