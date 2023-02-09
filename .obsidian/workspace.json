@@ -11,8 +11,12 @@
             "id": "612978ea7ad33352",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Meeting Notes/2023-02-01.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lua",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,11 +65,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8c744a56db106b39",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Meeting Notes/2023-02-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Meeting Notes/2023-02-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Meeting Notes/2023-02-01.md"
+              }
             }
           }
         ]
@@ -138,15 +148,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c445005ad5d83c36",
+  "active": "612978ea7ad33352",
   "lastOpenFiles": [
+    "ATLAS/Untitled.md",
+    "ATLAS/Design Doc.md",
+    "ArduPilot/Introduction to ArduPilot and MAVLink.md",
     "Work Logs (Optional)/David Cody Taupo Lingan.md",
     "().md",
     "General/What is AIDED.md",
     "General/What to expect from this type of engineering research as comapred to classwork or other jobs.md",
     "BEACON/Beacon.md",
-    "ATLAS/Untitled.md",
-    "ArduPilot/Introduction to ArduPilot and MAVLink.md",
     "Work Logs (Optional)/README.md"
   ]
 }
