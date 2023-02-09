@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"2c33ff0e1ec0e890","x":-568,"y":-364,"width":250,"height":95,"type":"text","text":"Lua sends PWM signal to aux rail. This trigger the arduino to unlatch the drone"},
+		{"id":"34a2810901bc841d","x":-585,"y":-210,"width":285,"height":128,"type":"text","text":"Auduino switches realy off. Drone is now powered by battery. No current going through charging circuit (Lua time delay?)"},
+		{"id":"efbe2b9ec4493df2","x":-567,"y":-39,"width":250,"height":63,"type":"text","text":"Arduino on the latch measures no current. "},
+		{"id":"90d19c59bfd8c340","x":-584,"y":78,"width":285,"height":64,"type":"text","text":"Ardunio on the latch unlocks bars"},
+		{"id":"826c6595f8aff659","x":-567,"y":190,"width":250,"height":60,"type":"text","text":"Drone takes off"},
+		{"id":"542b438df92c729f","x":-160,"y":145,"width":250,"height":151,"type":"text","text":"Optional: If there is a glitch and the latch does not unlock, can we use velocity vectors to determine that the drone is not taking off"}
+	],
+	"edges":[
+		{"id":"c08c0a6e001384ed","fromNode":"2c33ff0e1ec0e890","fromSide":"bottom","toNode":"34a2810901bc841d","toSide":"top"},
+		{"id":"a348cc1b500906dc","fromNode":"34a2810901bc841d","fromSide":"bottom","toNode":"efbe2b9ec4493df2","toSide":"top"},
+		{"id":"224813f1a4c942d4","fromNode":"efbe2b9ec4493df2","fromSide":"bottom","toNode":"90d19c59bfd8c340","toSide":"top"},
+		{"id":"e13565c663fb5681","fromNode":"90d19c59bfd8c340","fromSide":"bottom","toNode":"826c6595f8aff659","toSide":"top"},
+		{"id":"25625160f936b226","fromNode":"826c6595f8aff659","fromSide":"right","toNode":"542b438df92c729f","toSide":"left"}
+	]
+}

@@ -2,7 +2,7 @@
 [Parameters to Consider when using Lua scripts or Auto mode](https://ardupilot.org/copter/docs/parameters.html#wpnav-parameters)
 
 # Missions (AUTO mode)
-[Copter Mission Commadnd List](https://ardupilot.org/copter/docs/mission-command-list.html)
+[Copter Mission Command List](https://ardupilot.org/copter/docs/mission-command-list.html)
 ## Navigation Commands
 *Affect the location of the vehicle*
 Some that may be relevant:
@@ -21,7 +21,6 @@ Some that may be relevant:
 > The [AUTO_OPTIONS](https://ardupilot.org/copter/docs/parameters.html#auto-options) parameter can be used to allow arming/disarming while in AUTO mode, and/or, allowing a mission takeoff command to start upon AUTO mode entry, even if the throttle has not been raised.
 - [Do-Set-Relay](https://ardupilot.org/copter/docs/mission-command-list.html#do-set-relay)  Set a [Relay](https://ardupilot.org/copter/docs/common-relay.html#common-relay) pin’s voltage high or low
 - [Do-Gripper](https://ardupilot.org/copter/docs/mission-command-list.html#do-gripper). rip-n-grip
-
 
 ## Relevant Lua Code
 [Fast Descent Lua Script](https://github.com/ArduPilot/ardupilot/blob/master/libraries/AP_Scripting/examples/copter-fast-descent.lua)
@@ -60,7 +59,5 @@ end
 # Matter of fact, where's everybody from?
 *How can we get these things working together?*
 Come back to this.
-
-I'm from Michigan 😃
 
 
