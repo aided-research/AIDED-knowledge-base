@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"3bc8f484847ab847","x":-1035,"y":-200,"width":290,"height":200,"color":"1","type":"text","text":"## Latch and Disarm\n\nDecends, landing on the charging platform on top of the bus.\n\nLatches onto the platform and disarms the drone."},
+		{"id":"7791fe6dfbd69140","x":-680,"y":-180,"width":320,"height":160,"color":"1","type":"text","text":"## Ride Bus\n\nWait until the drone's location (latitude and longitude) gets within a certain distance of the destination."},
+		{"id":"adb27ff0b9fb586b","x":-300,"y":-186,"width":320,"height":172,"color":"1","type":"text","text":"## Unlatch and Takeoff\n\nArms the drone and unlatches from the platform.\n\nTakes off from the platform.\n\n"},
+		{"id":"388718f6099be4f0","x":-210,"y":140,"width":140,"height":50,"color":"4","type":"text","text":"## Delivery"},
+		{"id":"95740e7231d45bd6","x":-205,"y":240,"width":130,"height":50,"color":"4","type":"text","text":"## Takeoff"},
+		{"id":"fa7c591bf8f5d1ba","x":-250,"y":40,"width":220,"height":50,"color":"4","type":"text","text":"## Fly to Waypoint"},
+		{"id":"547ac6bdba8fb240","x":-950,"y":-420,"width":120,"height":50,"color":"4","type":"text","text":"## Takeoff"},
+		{"id":"5cdea49dec4f9570","x":-1000,"y":-315,"width":220,"height":50,"color":"4","type":"text","text":"## Fly to Waypoint"}
+	],
+	"edges":[
+		{"id":"afd5af120016cc65","fromNode":"547ac6bdba8fb240","fromSide":"bottom","toNode":"5cdea49dec4f9570","toSide":"top"},
+		{"id":"3e7ffd37d25703c4","fromNode":"388718f6099be4f0","fromSide":"bottom","toNode":"95740e7231d45bd6","toSide":"top"},
+		{"id":"480c9ffd76b70514","fromNode":"fa7c591bf8f5d1ba","fromSide":"bottom","toNode":"388718f6099be4f0","toSide":"top"},
+		{"id":"d319781e5d4ce4a7","fromNode":"5cdea49dec4f9570","fromSide":"bottom","toNode":"3bc8f484847ab847","toSide":"top"},
+		{"id":"70d8db8013f35563","fromNode":"3bc8f484847ab847","fromSide":"right","toNode":"7791fe6dfbd69140","toSide":"left"},
+		{"id":"34bfa28248eec4cc","fromNode":"7791fe6dfbd69140","fromSide":"right","toNode":"adb27ff0b9fb586b","toSide":"left"},
+		{"id":"64279d9ba0cc1870","fromNode":"adb27ff0b9fb586b","fromSide":"bottom","toNode":"fa7c591bf8f5d1ba","toSide":"top"}
+	]
+}
