@@ -1,3 +1,9 @@
+## 2/10/23
+## Summary:
+* First proposal design meeting! 
+* Read over whole proposal. 
+* Sat in the hallway >:)
+
 
 ## 2/8/23
 ### Summary:
@@ -48,7 +54,6 @@ Always check for version compatibility between two applications before installin
 ## 2/6/23
 ### Summary:
 * Confirmed that SITL + FlightGear 3D View is [not compatible on MacOS](https://discuss.ardupilot.org/t/tutorial-for-running-sitl-simulator-on-macos-with-vagrant-xquartz/38383) - should work for other OS if anyone wants to test.
-
 
 
 
