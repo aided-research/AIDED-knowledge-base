@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "612978ea7ad33352",
+  "active": "1331c3c4445bcb76",
   "lastOpenFiles": [
-    "Meeting Notes/2023-02-01.md",
+    "Work Logs (Optional)/Brady Berg.md",
     "ATLAS/Untitled.md",
+    "General/What to expect from this type of engineering research as comapred to classwork or other jobs.md",
+    "Integration/Undocking logic.canvas",
+    "EXODUS Flow Chart.canvas",
+    "Work Logs (Optional)/David Cody Taupo Lingan.md",
+    "Meeting Notes/2023-02-01.md",
     "ATLAS/Design Doc.md",
     "ArduPilot/Introduction to ArduPilot and MAVLink.md",
-    "Work Logs (Optional)/David Cody Taupo Lingan.md",
-    "().md",
-    "General/What is AIDED.md",
-    "General/What to expect from this type of engineering research as comapred to classwork or other jobs.md",
-    "BEACON/Beacon.md",
-    "Work Logs (Optional)/README.md"
+    "().md"
   ]
 }
