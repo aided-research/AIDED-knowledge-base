@@ -1,3 +1,24 @@
+## 2/13/23
+### Summary:
+* Move day to new lab :(
+* Team Meeting
+* Currently editting proposal
+
+### Blockers:
+* SITL is not for MacOS M1 chips. As for MacOS systems prior to M1, probably works.
+* Why?
+* [For MacOS, the only option to run SITL](https://ardupilot.org/dev/docs/setting-up-sitl-using-vagrant.html) is to use a virtual machine setup, which hinges on separate software, [Vagrant](https://developer.hashicorp.com/vagrant/downloads) and [VirtualBox](https://www.virtualbox.org/wiki/Downloads). 
+* This is where some confusion is introduced, but bare with me:
+	* The most recent version of VirtualBox (7.0.6) is the only version compatible with M1 Macs.
+	* Vagrant and VirtualBox work together to setup the virtual machine. However, Vagrant can [only work with versions of VirtualBox that is not 7.0.6.](https://developer.hashicorp.com/vagrant/docs/providers/virtualbox) Hopefully you see why this option does not work.
+	* Why did this case arise? Because the VirtualBox (7.0.6) version came out just late January of this year (2023) to accomodate M1 Macs, however Vagrant has yet to do the same.
+
+### Future:
+* Setting up a testing environment should be done on a device that is not MacOS. I am positive that setting this up on another device won't take long.
+
+
+
+
 ## 2/10/23
 ## Summary:
 * First proposal design meeting! 
