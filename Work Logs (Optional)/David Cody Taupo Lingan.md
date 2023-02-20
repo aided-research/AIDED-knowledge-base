@@ -1,3 +1,15 @@
+## 2/19/23
+### Summary:
+* in ardupilot missions, how to control servos (gripper - also a servo depedning on how you setup in ardupilot)
+* how can we do this in dronekit
+
+Calling lua scripts within ArduPilot missions
+
+* how does ardupilot mission that lua script is done
+* 
+
+
+
 ## 2/13/23
 ### Summary:
 * Move day to new lab :(
