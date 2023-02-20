@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"2c33ff0e1ec0e890","x":-568,"y":-364,"width":250,"height":95,"type":"text","text":"Lua sends PWM signal to aux rail. This trigger the arduino to unlatch the drone"},
-		{"id":"34a2810901bc841d","x":-585,"y":-210,"width":285,"height":128,"type":"text","text":"Auduino switches realy off. Drone is now powered by battery. No current going through charging circuit (Lua time delay?)"},
+		{"id":"34a2810901bc841d","x":-585,"y":-210,"width":285,"height":128,"type":"text","text":"Auduino switches really off. Drone is now powered by battery. No current going through charging circuit (Lua time delay?)"},
 		{"id":"efbe2b9ec4493df2","x":-567,"y":-39,"width":250,"height":63,"type":"text","text":"Arduino on the latch measures no current. "},
 		{"id":"90d19c59bfd8c340","x":-584,"y":78,"width":285,"height":64,"type":"text","text":"Ardunio on the latch unlocks bars"},
 		{"id":"826c6595f8aff659","x":-567,"y":190,"width":250,"height":60,"type":"text","text":"Drone takes off"},

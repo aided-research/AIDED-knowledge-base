@@ -11,11 +11,15 @@
             "id": "612978ea7ad33352",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Work Logs (Optional)/David Cody Taupo Lingan.md",
-                "mode": "source",
-                "source": false
+                "file": "Integration/Undocking logic.canvas",
+                "viewState": {
+                  "x": -247.5,
+                  "y": -34,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -65,12 +69,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 396.5
   },
   "right": {
     "id": "8c744a56db106b39",
@@ -86,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work Logs (Optional)/David Cody Taupo Lingan.md",
+                "file": "Integration/Undocking logic.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work Logs (Optional)/David Cody Taupo Lingan.md",
+                "file": "Integration/Undocking logic.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work Logs (Optional)/David Cody Taupo Lingan.md"
+                "file": "Integration/Undocking logic.canvas"
               }
             }
           }
@@ -147,17 +150,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1331c3c4445bcb76",
+  "active": "612978ea7ad33352",
   "lastOpenFiles": [
+    "Integration/Lua Scripts + AUTO Mode.md",
+    "Integration/Undocking logic.canvas",
+    "Integration/Integration.md",
+    "General/What to expect from this type of engineering research as comapred to classwork or other jobs.md",
+    "Integration/EXODUS Flow Chart.canvas",
+    "General/What is AIDED.md",
+    "Work Logs (Optional)/David Cody Taupo Lingan.md",
     "Work Logs (Optional)/Brady Berg.md",
     "ATLAS/Untitled.md",
-    "General/What to expect from this type of engineering research as comapred to classwork or other jobs.md",
-    "Integration/Undocking logic.canvas",
-    "EXODUS Flow Chart.canvas",
-    "Work Logs (Optional)/David Cody Taupo Lingan.md",
-    "Meeting Notes/2023-02-01.md",
-    "ATLAS/Design Doc.md",
-    "ArduPilot/Introduction to ArduPilot and MAVLink.md",
-    "().md"
+    "EXODUS Flow Chart.canvas"
   ]
 }
