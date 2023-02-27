@@ -1,13 +1,13 @@
 {
 	"nodes":[
-		{"id":"fa7c591bf8f5d1ba","x":-250,"y":40,"width":220,"height":50,"color":"4","type":"text","text":"## Fly to Waypoint"},
-		{"id":"547ac6bdba8fb240","x":-950,"y":-420,"width":120,"height":50,"color":"4","type":"text","text":"## Takeoff"},
-		{"id":"5cdea49dec4f9570","x":-1000,"y":-315,"width":220,"height":50,"color":"4","type":"text","text":"## Fly to Waypoint"},
-		{"id":"7791fe6dfbd69140","x":-680,"y":-168,"width":320,"height":160,"color":"1","type":"text","text":"## Ride Bus\n\nWait until the drone's location (latitude and longitude) gets within a certain distance of the destination."},
-		{"id":"adb27ff0b9fb586b","x":-300,"y":-174,"width":320,"height":172,"color":"1","type":"text","text":"## Unlatch and Takeoff\n\nArms the drone and unlatches from the platform.\n\nTakes off from the platform.\n\n"},
-		{"id":"3bc8f484847ab847","x":-1035,"y":-208,"width":290,"height":240,"color":"1","type":"text","text":"## Latch and Disarm\n\nDecends, landing on the charging platform on top of the bus.\n\nLatches onto the platform and disarms the drone.\n\nCurrent status: Failed in testing"},
-		{"id":"388718f6099be4f0","x":-255,"y":145,"width":230,"height":180,"color":"4","type":"text","text":"## Delivery\nPrecision land arm needs to move out of the way before the package can be released"},
-		{"id":"95740e7231d45bd6","x":-205,"y":353,"width":130,"height":50,"color":"4","type":"text","text":"## Takeoff"}
+		{"type":"text","text":"## Fly to Waypoint","id":"fa7c591bf8f5d1ba","x":-250,"y":40,"width":220,"height":80,"color":"4"},
+		{"type":"text","text":"## Takeoff","id":"547ac6bdba8fb240","x":-950,"y":-420,"width":120,"height":50,"color":"4"},
+		{"type":"text","text":"## Fly to Waypoint","id":"5cdea49dec4f9570","x":-1000,"y":-315,"width":220,"height":50,"color":"4"},
+		{"type":"text","text":"## Ride Bus\n\nWait until the drone's location (latitude and longitude) gets within a certain distance of the destination.","id":"7791fe6dfbd69140","x":-680,"y":-168,"width":320,"height":160,"color":"1"},
+		{"type":"text","text":"## Unlatch and Takeoff\n\nArms the drone and unlatches from the platform.\n\nTakes off from the platform.\n\n","id":"adb27ff0b9fb586b","x":-300,"y":-174,"width":320,"height":172,"color":"1"},
+		{"type":"text","text":"## Delivery\nPrecision land arm needs to move out of the way before the package can be released","id":"388718f6099be4f0","x":-255,"y":145,"width":230,"height":180,"color":"4"},
+		{"type":"text","text":"## Takeoff","id":"95740e7231d45bd6","x":-205,"y":353,"width":130,"height":50,"color":"4"},
+		{"type":"text","text":"## Latch and Disarm\n\nDecends, landing on the charging platform on top of the bus.\n\nLatches onto the platform and disarms the drone.\n\nCurrent status: Failed in testing","id":"3bc8f484847ab847","x":-1035,"y":-224,"width":290,"height":273,"color":"1"}
 	],
 	"edges":[
 		{"id":"afd5af120016cc65","fromNode":"547ac6bdba8fb240","fromSide":"bottom","toNode":"5cdea49dec4f9570","toSide":"top"},
