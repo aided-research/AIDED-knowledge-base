@@ -1,12 +1,16 @@
+
+## 2/26/23
+* Calling Lua scripts within ArduPilot missions - how does an ArduPilot mission know that a Lua script is done?
+	* Because we're working with hardware, it's our responsibility to provide feedback as to when a Lua script is done. 
+
 ## 2/19/23
 ### Summary:
-* in ardupilot missions, how to control servos (gripper - also a servo depedning on how you setup in ardupilot)
-* how can we do this in dronekit
+* In ArduPilot missions, how do you control servos (gripper - also a servo depedning on how you setup in ArduPilot)
+* How can we do this in DroneKit?
+* * [This the answer](obsidian://open?vault=AIDED-knowledge-base&file=Integration%2FDroneKit%20%2B%20Servos)
 
-Calling lua scripts within ArduPilot missions
 
-* how does ardupilot mission that lua script is done
-* 
+* Calling Lua scripts within ArduPilot missions - how does an ArduPilot mission know that a Lua script is done?
 
 
 
@@ -32,7 +36,7 @@ Calling lua scripts within ArduPilot missions
 
 
 ## 2/10/23
-## Summary:
+### Summary:
 * First proposal design meeting! 
 * Read over whole proposal. 
 * Sat in the hallway >:)
