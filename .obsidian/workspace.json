@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Integration/DroneKit + Servos.md",
+                "file": "Work Logs (Optional)/David Cody Taupo Lingan.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Integration/DroneKit + Servos.md",
+                "file": "Work Logs (Optional)/David Cody Taupo Lingan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Integration/DroneKit + Servos.md",
+                "file": "Work Logs (Optional)/David Cody Taupo Lingan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Integration/DroneKit + Servos.md"
+                "file": "Work Logs (Optional)/David Cody Taupo Lingan.md"
               }
             }
           }
@@ -161,14 +161,14 @@
   },
   "active": "565ec0ce239adf2f",
   "lastOpenFiles": [
+    "General/What is AIDED.md",
     "Work Logs (Optional)/David Cody Taupo Lingan.md",
     "Integration/DroneKit + Servos.md",
-    "Integration/Lua Scripts + AUTO Mode.md",
-    "Integration/Integration.md",
-    "Integration/Undocking logic.canvas",
     "Integration/EXODUS Flow Chart.canvas",
+    "Integration/Integration.md",
+    "Integration/Lua Scripts + AUTO Mode.md",
+    "BEACON/Beacon.md",
     "General/What to expect from this type of engineering research as comapred to classwork or other jobs.md",
-    "General/What is AIDED.md",
     "Meeting Notes/2023-02-08.md",
     "Meeting Notes/2023-02-01.md"
   ]
